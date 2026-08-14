@@ -39,36 +39,66 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">💻 Programming Languages</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=anuragg2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+    alt="C"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragg2005&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
+    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+    alt="C++"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anuragg2005&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    alt="Java"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
   />
 </p>
 
 ---
 
-<h2 align="center">📈 My GitHub Activity</h2>
+<h2 align="center">🌐 Web Development</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anuragg2005&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+</p>
+
+---
+
+<h2 align="center">🔧 Tools & Technologies</h2>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    alt="VS Code"
   />
 </p>
 
@@ -109,27 +139,86 @@
 
 ---
 
-<h2 align="center">💻 Coding Mindset</h2>
+<h2 align="center">🚀 My Developer Journey</h2>
+
+<p align="center">
+  <b>📚 Learn</b>
+  &nbsp; → &nbsp;
+  <b>💻 Practice</b>
+  &nbsp; → &nbsp;
+  <b>🚀 Build</b>
+  &nbsp; → &nbsp;
+  <b>🌐 Deploy</b>
+  &nbsp; → &nbsp;
+  <b>🌱 Improve</b>
+</p>
+
+---
+
+<h2 align="center">📌 Currently Learning</h2>
+
+<p align="center">
+  📚 Programming
+  &nbsp; • &nbsp;
+  🧠 Problem Solving
+  &nbsp; • &nbsp;
+  🌐 Web Development
+  &nbsp; • &nbsp;
+  💻 Software Development
+</p>
+
+---
+
+<h2 align="center">🌟 What I Believe</h2>
+
+<p align="center">
+  <b>
+    Learn from mistakes.<br>
+    Practice consistently.<br>
+    Build useful projects.<br>
+    Keep improving every day.
+  </b>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-```text
-        ┌──────────────────────┐
-        │      Learn 📚        │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │      Practice 💻     │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │      Build 🚀        │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │     Improve 🌱       │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │      Repeat 🔥       │
-        └──────────────────────┘
+  <a href="https://www.linkedin.com/in/anurag-devnath-562a04429">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Anurag%20Devnath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/anuragg2005">
+    <img
+      src="https://img.shields.io/badge/GitHub-anuragg2005-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
+
+---
+
+<h2 align="center">⚡ Fun Fact</h2>
+
+<p align="center">
+  <i>
+    "The best way to learn programming is to build something."
+    💻🚀
+  </i>
+</p>
+
+---
+
+<h3 align="center">🚀 Learn. Build. Improve. Repeat. 🚀</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
